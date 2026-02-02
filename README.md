@@ -1,85 +1,182 @@
-<h1 align="center">Olá, eu sou o Welliton da Rocha</h1>
+# 👋 Olá, eu sou o Welliton da Rocha
 
-<p align="center">
-  <b>Analista de Dados | Power BI • SQL • Python</b><br>
-  Analytics orientado a negócio | ETL • KPIs • Dashboards • Tomada de decisão
-</p>
+**Analista de Dados | Business Intelligence | Power BI • SQL • Python**
+Analytics orientado a negócio • ETL • KPIs • Dashboards • Tomada de Decisão
 
 ---
 
-## Sobre mim
+## 📌 Sobre mim
 
-Sou Analista de Dados em início de carreira formal, com **sólida experiência prática em análise de dados operacionais, indicadores e melhoria de processos**, adquirida ao longo da minha trajetória profissional em ambientes reais de negócio.
+Sou Analista de Dados com sólida experiência prática em análise de dados operacionais, indicadores e melhoria de processos em ambientes reais de negócio.
 
-Atuo em todo o **ciclo de dados**, desde a coleta e tratamento (ETL) até a análise e visualização, com foco em **transformar dados desestruturados em insights claros e acionáveis** para suporte à tomada de decisão.
+Atuo em todo o ciclo de dados — desde a coleta, tratamento e integração (ETL) até a análise e visualização — com foco em transformar dados brutos em **insights claros, acionáveis e orientados à performance**.
 
-Este GitHub representa meu **portfólio profissional**, onde desenvolvo e publico projetos completos de Analytics, aplicando conceitos de BI, SQL e Python em problemas reais de negócio.
+Tenho experiência aplicada em contextos administrativos, logísticos, operacionais e financeiros, apoiando decisões estratégicas por meio de dashboards, relatórios gerenciais e KPIs.
 
----
-
-## Stack técnica
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4E6E93?style=for-the-badge" />
-</p>
+Este GitHub representa meu **portfólio profissional**, onde documento minha evolução técnica e publico projetos completos em Analytics, BI e Ciência de Dados.
 
 ---
 
-## Projetos em destaque
+## 🧰 Stack Técnica
+
+### 📊 Análise & BI
+
+* Power BI (DAX, Modelagem, Dashboards)
+* Power Query (ETL)
+* Excel Avançado
+* Criação e Monitoramento de KPIs
+
+### 🗄️ Dados & Programação
+
+* SQL (Consultas Analíticas, CTEs, Window Functions)
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* ETL com Python + SQL
+* Git & GitHub
+
+### 📈 Data Science
+
+* Estatística Aplicada
+* Machine Learning
+* Análise Exploratória de Dados
+* Visualização e Storytelling
+
+---
+
+## 🚀 Projetos em Destaque
 
 ### 📊 Análise de Vendas com Power BI
-🔗 [analise-vendas-powerbi](https://github.com/wellitonrocha/projeto-analise-vendas-powerbi)
 
-- Tratamento de base desestruturada via ETL no Power Query  
-- Modelagem de dados e criação de KPIs estratégicos  
-- Dashboard analítico focado em tomada de decisão comercial  
+🔗 [**projeto-analise-vendas-powerbi**](https://github.com/wellitonrocha/projeto-analise-vendas-powerbi)
 
----
+Projeto de análise completa de vendas, metas, desempenho por produto e performance da equipe comercial.
 
-### 🚚 Logística & Analytics com SQL + Power BI
-🔗 [projeto-logistica-analytics](https://github.com/wellitonrocha/projeto-logistica-analytics)
+**Principais atividades:**
 
-- Integração e tratamento de múltiplas planilhas no SQL  
-- Construção de queries analíticas para suporte operacional  
-- Visualização estratégica dos dados no Power BI  
+* ETL com Power Query
+* Modelagem de dados
+* Criação de KPIs estratégicos
+* Dashboard orientado à tomada de decisão
 
 ---
 
-## Estudos em andamento
+### 🚚 Logística & Analytics (SQL + Power BI)
 
-- Python para Análise e Ciência de Dados  
-- SQL avançado (CTEs, window functions, modelagem analítica)  
-- Estatística aplicada à análise de dados  
-- Visualização de dados e storytelling  
-- Boas práticas de versionamento com Git/GitHub  
+🔗 [**projeto-logistica-analytics**](https://github.com/wellitonrocha/projeto-logistica-analytics)
 
----
+Projeto focado em engenharia de dados, SQL avançado e análise de performance operacional e financeira, utilizando arquitetura de Data Warehouse.
 
-## Objetivos profissionais
+**Principais atividades:**
 
-- Conquistar minha **primeira oportunidade formal como Analista de Dados (Júnior / Júnior avançado)**  
-- Atuar em ambientes orientados a dados, tecnologia ou financeiro  
-- Evoluir tecnicamente em Python, Estatística e Machine Learning  
-- Construir projetos cada vez mais próximos de cenários reais de negócio  
+* Integração de múltiplas fontes
+* Queries analíticas avançadas
+* Estruturação de DW
+* Visualização no Power BI
 
 ---
 
-## Contato
+### 💳 Análise de Crédito & Risco Financeiro (IA Generativa)
 
-<p>
-  <a href="https://www.linkedin.com/in/welliton-rocha-data-analytics">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+🔗 [**notebooklm_credito_risco_financeiro**](https://github.com/wellitonrocha/notebooklm_credito_risco_financeiro)
 
-<p align="center">
-  Obrigado pela visita. Fique à vontade para explorar meus projetos.
-</p>
+Guia estruturado sobre Análise de Crédito e Gestão de Riscos Financeiros, desenvolvido com apoio de IA Generativa (NotebookLM).
+
+**Diferencial do projeto:**
+
+* Uso consciente e metodológico da IA
+* Fundamentação em fontes institucionais
+* Foco educacional e crítico
+
+---
+
+### 📚 Data Science Journey
+
+🔗 [**data_science_journey**](https://github.com/wellitonrocha/data_science_journey)
+
+Repositório de estudos e projetos em Ciência de Dados, documentando minha evolução semanal até o início do MBA.
+
+**Conteúdos abordados:**
+
+* Git e Versionamento
+* SQL Básico e Avançado
+* Python para Dados
+* Estatística
+* ETL
+* Machine Learning
+* Projetos aplicados
+
+Estrutura organizada por semanas, com notebooks, códigos e relatórios.
+
+---
+
+## 📖 Formação e Estudos
+
+### 🎓 Acadêmico
+
+* Bacharelado em Administração (2018–2021)
+* Ciências Contábeis (Incompleto – 2022–2024)
+* MBA em Data Science, IA e Analytics – USP/ESALQ (Início: 05/2026)
+
+### 📜 Cursos e Bootcamps
+
+* Formação em Análise de Dados – 285h
+* Bootcamp Bradesco – GenAI & Dados (52h) (Em andamento)
+* Fundamentos de Machine Learning com Python (6h) (Em andamento)
+* Imersão Agentes de IA (8h) (Em andamento)
+
+### 📚 Atualmente estudando
+
+* Python para Data Science
+* SQL Avançado
+* Estatística
+* Machine Learning
+* Inglês (Básico – Duolingo)
+
+---
+
+## 💼 Experiência Profissional (Resumo)
+
+### 📍 Analista / Assistente de Qualidade
+
+**Nutriphós Nutrição e Saúde Animal (2023–2024)**
+
+* Estruturação de bases de dados
+* Desenvolvimento de KPIs
+* Análise logística e operacional
+* Criação de dashboards
+
+### 📍 Analista de Controle de Qualidade
+
+**Umaflex Colchões (2021–2023)**
+
+* Modelos analíticos em Excel
+* Controle de consumo e produtividade
+* Indicadores de qualidade
+
+### 📍 Encarregado / Operador
+
+**Usina Santa Terezinha (2011–2021)**
+
+* Análise de dados produtivos
+* Gestão por indicadores
+* Otimização operacional
+
+---
+
+## 🎯 Objetivos Profissionais
+
+* Conquistar oportunidade como **Analista de Dados Júnior / Pleno**
+* Atuar em ambientes orientados a dados, tecnologia ou mercado financeiro
+* Evoluir em Data Science, Estatística e IA
+* Desenvolver projetos com impacto real no negócio
+
+---
+
+## 📬 Contato
+
+* 📧 Email: [wellitondarocha@gmail.com](mailto:wellitondarocha@gmail.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/welliton-rocha-data-analytics](https://www.linkedin.com/in/welliton-rocha-data-analytics)
+
+---
+
+⭐ Obrigado pela visita!
+Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução profissional.

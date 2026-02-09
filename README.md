@@ -121,7 +121,7 @@ Estrutura organizada por semanas, com notebooks, códigos e relatórios.
 * Formação em Análise de Dados – 285h
 * Bootcamp Bradesco – GenAI & Dados (52h) (Em andamento)
 * Fundamentos de Machine Learning com Python (6h) (Em andamento)
-* Imersão Agentes de IA (8h) (Em andamento)
+* Imersão Agentes de IA (8h)
 
 ### 📚 Atualmente estudando
 

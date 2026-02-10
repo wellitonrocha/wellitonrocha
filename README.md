@@ -1,7 +1,10 @@
 # 👋 Olá, eu sou o Welliton da Rocha
 
-**Analista de Dados | Business Intelligence | Power BI • SQL • Python**
-Analytics orientado a negócio • ETL • KPIs • Dashboards • Tomada de Decisão
+📊 **Analista de Dados | BI | IA Aplicada | Power BI • SQL • Python**
+
+Transformo dados em **insights estratégicos**, dashboards e soluções inteligentes para apoiar decisões de negócio.
+
+Analytics orientado a performance • ETL • KPIs • Visualização • IA Generativa
 
 ---
 
@@ -40,9 +43,49 @@ Este GitHub representa meu **portfólio profissional**, onde documento minha evo
 * Análise Exploratória de Dados
 * Visualização e Storytelling
 
+### 🤖 Inteligência Artificial & GenAI
+
+* OpenAI API
+* Whisper (Speech-to-Text)
+* LLM Integration
+* Prompt Engineering
+* IA aplicada a negócios
+
+
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 🤖 Inteligência Artificial & IA Generativa
+
+#### 🎤 FinVoice AI — Assistente Financeiro por Voz
+
+🔗 https://github.com/wellitonrocha/finvoice-ai
+
+Assistente por voz que utiliza Speech-to-Text, IA Generativa e Text-to-Speech para responder perguntas financeiras.
+
+**Tecnologias:**
+* Python
+* OpenAI Whisper
+* OpenAI API
+* gTTS
+* Clean Architecture
+
+---
+
+#### 📊 Financial Dashboard — Power BI
+
+🔗 [(financial-dashboard-powerbi)](https://github.com/wellitonrocha/financial-dashboard-powerbi)
+
+Dashboard financeiro completo com indicadores estratégicos, análise de desempenho e visualização executiva.
+
+**Tecnologias:**
+* Power BI
+* DAX
+* Power Query
+* Modelagem de Dados
+* 
+---
 
 ### 📊 Análise de Vendas com Power BI
 
@@ -164,10 +207,11 @@ Estrutura organizada por semanas, com notebooks, códigos e relatórios.
 
 ## 🎯 Objetivos Profissionais
 
-* Conquistar oportunidade como **Analista de Dados Júnior / Pleno**
-* Atuar em ambientes orientados a dados, tecnologia ou mercado financeiro
-* Evoluir em Data Science, Estatística e IA
-* Desenvolver projetos com impacto real no negócio
+* Atuar como **Analista de Dados / BI / Analytics**
+* Trabalhar com projetos orientados a dados e IA
+* Desenvolver soluções para tomada de decisão
+* Evoluir em Data Science e GenAI
+* Atuar em ambientes inovadores e orientados a produto
 
 ---
 
@@ -175,6 +219,11 @@ Estrutura organizada por semanas, com notebooks, códigos e relatórios.
 
 * 📧 Email: [wellitondarocha@gmail.com](mailto:wellitondarocha@gmail.com)
 * 💼 LinkedIn: [https://www.linkedin.com/in/welliton-rocha-data-analytics](https://www.linkedin.com/in/welliton-rocha-data-analytics)
+
+---
+
+📌 Estou aberto a oportunidades nas áreas de Dados, BI, Analytics e IA.
+Vamos conversar?
 
 ---
 

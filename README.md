@@ -1,231 +1,222 @@
 # 👋 Olá, eu sou o Welliton da Rocha
 
-📊 **Analista de Dados | BI | IA Aplicada | Power BI • SQL • Python**
+## Especialista em Gestão da Informação Industrial | PCM | Business Intelligence | Power BI • SQL • Python
 
-Transformo dados em **insights estratégicos**, dashboards e soluções inteligentes para apoiar decisões de negócio.
-
-Analytics orientado a performance • ETL • KPIs • Visualização • IA Generativa
+Transformo dados operacionais em informação estruturada para suporte à decisão em ambientes industriais, atuando diretamente em manutenção, custos, utilidades, suprimentos e performance operacional.
 
 ---
 
-## 📌 Sobre mim
+## 📌 Sobre Mim
 
-Sou Analista de Dados com sólida experiência prática em análise de dados operacionais, indicadores e melhoria de processos em ambientes reais de negócio.
+Atuo como Analista de PCM Pleno com foco em Gestão da Informação Industrial, Business Intelligence e Performance Operacional.
 
-Atuo em todo o ciclo de dados — desde a coleta, tratamento e integração (ETL) até a análise e visualização — com foco em transformar dados brutos em **insights claros, acionáveis e orientados à performance**.
+Minha atuação envolve a estruturação de sistemas analíticos que suportam a tomada de decisão em ambientes industriais, conectando dados de manutenção, custos, produção, utilidades e áreas de suporte.
 
-Tenho experiência aplicada em contextos administrativos, logísticos, operacionais e financeiros, apoiando decisões estratégicas por meio de dashboards, relatórios gerenciais e KPIs.
+Ao longo da minha trajetória profissional, desenvolvi experiência em indicadores de desempenho, gestão de custos, análise operacional, automação de processos e desenvolvimento de dashboards para diferentes áreas do negócio.
 
-Este GitHub representa meu **portfólio profissional**, onde documento minha evolução técnica e publico projetos completos em Analytics, BI e Ciência de Dados.
+Minha formação em Administração, os estudos em Engenharia de Produção e a especialização em Data Science e Inteligência Artificial me permitem atuar na interface entre processos industriais, análise de dados e gestão da performance.
+
+Este GitHub reúne projetos, estudos e soluções voltadas para Business Intelligence, Analytics, Automação e Ciência de Dados aplicados à resolução de problemas reais de negócio.
+
+---
+
+## 🏭 Áreas de Atuação
+
+* Planejamento e Controle da Manutenção (PCM)
+* Gestão da Informação Industrial
+* Business Intelligence
+* Gestão de Indicadores (KPIs)
+* Gestão de Custos
+* Analytics para Tomada de Decisão
+* Performance Operacional
+* Automação de Processos
 
 ---
 
 ## 🧰 Stack Técnica
 
-### 📊 Análise & BI
+### 📊 Business Intelligence
 
-* Power BI (DAX, Modelagem, Dashboards)
-* Power Query (ETL)
-* Excel Avançado
-* Criação e Monitoramento de KPIs
+* Power BI
+* DAX
+* Power Query
+* Modelagem Dimensional (Star Schema)
+* Storytelling com Dados
+* Dashboards Executivos
+* Dashboards Operacionais
+* Indicadores de Desempenho (KPIs)
 
 ### 🗄️ Dados & Programação
 
-* SQL (Consultas Analíticas, CTEs, Window Functions)
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
-* ETL com Python + SQL
+* SQL
+* Python
+* Pandas
+* Polars
+* ETL
+* APIs
 * Git & GitHub
+* n8n
 
-### 📈 Data Science
+### 📈 Data Science & Analytics
 
 * Estatística Aplicada
-* Machine Learning
 * Análise Exploratória de Dados
-* Visualização e Storytelling
+* Machine Learning
+* Modelagem Analítica
+* Visualização de Dados
 
-### 🤖 Inteligência Artificial & GenAI
+### 🤖 Inteligência Artificial
 
 * OpenAI API
-* Whisper (Speech-to-Text)
 * LLM Integration
 * Prompt Engineering
-* IA aplicada a negócios
-
+* Agentes de IA
+* IA Aplicada a Negócios
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 Inteligência Artificial & IA Generativa
+### 📊 Financial Dashboard — Power BI
 
-#### 🎤 FinVoice AI — Assistente Financeiro por Voz
+Dashboard financeiro desenvolvido para acompanhamento de indicadores estratégicos, análise de desempenho e suporte à tomada de decisão.
 
-🔗 https://github.com/wellitonrocha/finvoice-ai
+**Tecnologias utilizadas:**
 
-Assistente por voz que utiliza Speech-to-Text, IA Generativa e Text-to-Speech para responder perguntas financeiras.
-
-**Tecnologias:**
-* Python
-* OpenAI Whisper
-* OpenAI API
-* gTTS
-* Clean Architecture
-
----
-
-#### 📊 Financial Dashboard — Power BI
-
-🔗 [(financial-dashboard-powerbi)](https://github.com/wellitonrocha/financial-dashboard-powerbi)
-
-Dashboard financeiro completo com indicadores estratégicos, análise de desempenho e visualização executiva.
-
-**Tecnologias:**
 * Power BI
 * DAX
 * Power Query
 * Modelagem de Dados
-* 
+
+🔗 https://github.com/wellitonrocha/financial-dashboard-powerbi
+
 ---
 
-### 📊 Análise de Vendas com Power BI
+### 📈 Análise de Vendas com Power BI
 
-🔗 [**projeto-analise-vendas-powerbi**](https://github.com/wellitonrocha/projeto-analise-vendas-powerbi)
-
-Projeto de análise completa de vendas, metas, desempenho por produto e performance da equipe comercial.
+Projeto de análise comercial com foco em metas, desempenho de produtos e acompanhamento de resultados.
 
 **Principais atividades:**
 
 * ETL com Power Query
-* Modelagem de dados
-* Criação de KPIs estratégicos
-* Dashboard orientado à tomada de decisão
+* Modelagem de Dados
+* Criação de KPIs
+* Dashboard Gerencial
+
+🔗 https://github.com/wellitonrocha/projeto-analise-vendas-powerbi
 
 ---
 
-### 🚚 Logística & Analytics (SQL + Power BI)
+### 🚚 Logística & Analytics
 
-🔗 [**projeto-logistica-analytics**](https://github.com/wellitonrocha/projeto-logistica-analytics)
-
-Projeto focado em engenharia de dados, SQL avançado e análise de performance operacional e financeira, utilizando arquitetura de Data Warehouse.
+Projeto focado em SQL avançado, análise operacional e construção de indicadores logísticos utilizando conceitos de Data Warehouse.
 
 **Principais atividades:**
 
 * Integração de múltiplas fontes
-* Queries analíticas avançadas
-* Estruturação de DW
-* Visualização no Power BI
+* Consultas analíticas
+* Estruturação de Data Warehouse
+* Dashboards em Power BI
+
+🔗 https://github.com/wellitonrocha/projeto-logistica-analytics
 
 ---
 
-### 💳 Análise de Crédito & Risco Financeiro (IA Generativa)
+## 🏭 Soluções Desenvolvidas
 
-🔗 [**notebooklm_credito_risco_financeiro**](https://github.com/wellitonrocha/notebooklm_credito_risco_financeiro)
+Além dos projetos publicados, minha atuação profissional envolve o desenvolvimento de soluções analíticas para acompanhamento de processos industriais e indicadores operacionais, incluindo:
 
-Guia estruturado sobre Análise de Crédito e Gestão de Riscos Financeiros, desenvolvido com apoio de IA Generativa (NotebookLM).
+* Gestão de Backlog de Manutenção
+* Kanban de Serviços
+* Custos Industriais
+* Disponibilidade Fabril
+* Apropriação de Horas
+* Controle de Horas Extras
+* Programação de Serviços
+* Gestão do 5S
+* Não Conformidades Trabalhistas (RH) 
+* Indicadores Operacionais e de Performance
 
-**Diferencial do projeto:**
-
-* Uso consciente e metodológico da IA
-* Fundamentação em fontes institucionais
-* Foco educacional e crítico
-
----
-
-### 📚 Data Science Journey
-
-🔗 [**data_science_journey**](https://github.com/wellitonrocha/data_science_journey)
-
-Repositório de estudos e projetos em Ciência de Dados, documentando minha evolução semanal até o início do MBA.
-
-**Conteúdos abordados:**
-
-* Git e Versionamento
-* SQL Básico e Avançado
-* Python para Dados
-* Estatística
-* ETL
-* Machine Learning
-* Projetos aplicados
-
-Estrutura organizada por semanas, com notebooks, códigos e relatórios.
+Novos projetos relacionados a essas soluções serão documentados e publicados gradualmente neste repositório.
 
 ---
 
-## 📖 Formação e Estudos
+## 📖 Formação Acadêmica
 
-### 🎓 Acadêmico
+### 🎓 Formação
 
-* Bacharelado em Administração (2018–2021)
-* Ciências Contábeis (Incompleto – 2022–2024)
-* MBA em Data Science, IA e Analytics – USP/ESALQ (Início: 05/2026)
-
-### 📜 Cursos e Bootcamps
-
-* Formação em Análise de Dados – 285h
-* Bootcamp Bradesco – GenAI & Dados (52h) (Em andamento)
-* Fundamentos de Machine Learning com Python (6h) (Em andamento)
-* Imersão Agentes de IA (8h)
-
-### 📚 Atualmente estudando
-
-* Python para Data Science
-* SQL Avançado
-* Estatística
-* Machine Learning
-* Inglês (Básico – Duolingo)
+* MBA em Data Science, Inteligência Artificial e Analytics — USP/ESALQ (Em andamento)
+* Engenharia de Produção — UNIFATECIE (Em andamento)
+* Bacharelado em Administração
+* Ciências Contábeis (Formação não concluída)
 
 ---
 
-## 💼 Experiência Profissional (Resumo)
+## 💼 Experiência Profissional
 
-### 📍 Analista / Assistente de Qualidade
+### Analista de PCM Pleno
 
-**Nutriphós Nutrição e Saúde Animal (2023–2024)**
+Atuação focada em Gestão da Informação Industrial, Business Intelligence e Performance Operacional.
+
+Principais responsabilidades:
+
+* Gestão de KPIs industriais
+* Gestão de custos
+* Desenvolvimento de dashboards estratégicos
+* Estruturação de bases de dados
+* Automação de processos
+* Suporte à tomada de decisão
+* Análises de performance operacional
+
+### Experiências Anteriores
+
+#### Analista / Assistente de Qualidade
 
 * Estruturação de bases de dados
-* Desenvolvimento de KPIs
-* Análise logística e operacional
+* Desenvolvimento de indicadores
 * Criação de dashboards
+* Análises operacionais e logísticas
 
-### 📍 Analista de Controle de Qualidade
+#### Analista de Controle de Qualidade
 
-**Umaflex Colchões (2021–2023)**
+* Gestão de indicadores
+* Controle de produtividade
+* Desenvolvimento de análises em Excel
 
-* Modelos analíticos em Excel
-* Controle de consumo e produtividade
-* Indicadores de qualidade
+#### Encarregado / Operador Industrial
 
-### 📍 Encarregado / Operador
-
-**Usina Santa Terezinha (2011–2021)**
-
-* Análise de dados produtivos
-* Gestão por indicadores
-* Otimização operacional
+* Gestão operacional
+* Acompanhamento de indicadores produtivos
+* Otimização de processos
+* Melhoria contínua
 
 ---
 
 ## 🎯 Objetivos Profissionais
 
-* Atuar como **Analista de Dados / BI / Analytics**
-* Trabalhar com projetos orientados a dados e IA
-* Desenvolver soluções para tomada de decisão
-* Evoluir em Data Science e GenAI
-* Atuar em ambientes inovadores e orientados a produto
+Meu objetivo é atuar no desenvolvimento de soluções que integrem Business Intelligence, Analytics, Automação e Inteligência Artificial para gerar valor ao negócio por meio de decisões orientadas por dados.
+
+Tenho interesse especial em projetos relacionados a:
+
+* Business Intelligence
+* Gestão Industrial
+* PCM
+* Analytics
+* Data Science
+* Inteligência Artificial aplicada a negócios
+* Automação de Processos
+* Transformação Digital
 
 ---
 
 ## 📬 Contato
 
-* 📧 Email: [wellitondarocha@gmail.com](mailto:wellitondarocha@gmail.com)
-* 💼 LinkedIn: [https://www.linkedin.com/in/welliton-rocha-data-analytics](https://www.linkedin.com/in/welliton-rocha-data-analytics)
+📧 Email: **[wellitondarocha@gmail.com](mailto:wellitondarocha@gmail.com)**
 
----
-
-📌 Estou aberto a oportunidades nas áreas de Dados, BI, Analytics e IA.
-Vamos conversar?
+💼 LinkedIn: **[linkedin.com/in/welliton-rocha-data-analytics](https://www.linkedin.com/in/welliton-rocha-data-analytics/)**
 
 ---
 
 ⭐ Obrigado pela visita!
-Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução profissional.
+
+Este espaço reúne projetos, estudos e soluções voltadas para Business Intelligence, Gestão Industrial, Analytics, Automação e Inteligência Artificial aplicadas à resolução de problemas reais de negócio.
